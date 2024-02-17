@@ -4,12 +4,12 @@ declare(strict_types = 1);
 /**
  * @name EconomyApiToScoreboard
  * @version 1.0.0
- * @main JackMD\ScoreHud\Addons\EconomyApiAddon
+ * @main Krutifulmen\ScoreHud\Addons\EconomyApiAddon
  * @depend EconomyAPI
  */
-namespace JackMD\ScoreHud\Addons
+namespace Krutifulmen\ScoreHud\Addons
 {
-	use JackMD\ScoreHud\addon\AddonBase;
+	use Krutifulmen\ScoreHud\addon\AddonBase;
 	use onebone\economyapi\EconomyAPI;
 	use pocketmine\Player;
 
